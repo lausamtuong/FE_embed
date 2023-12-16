@@ -1,0 +1,1 @@
+export type FanStatus = 'on' | 'off';
